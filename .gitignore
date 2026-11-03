@@ -1,0 +1,11 @@
+anal27Mar26.nb
+sum breath data-22 December 2025.xlsx
+*.odr
+PRIVATE_*
+**/PRIVATE_*
+FeatureSelection_Results/
+Revision_Results/
+Sensor_Temporal_Supplement/
+*.nb~
+*.wl~
+.DS_Store

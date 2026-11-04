@@ -111,4 +111,4 @@ Please cite the associated dengue e-nose study when using or adapting this code.
 
 ## Contact
 
-For questions concerning the methods, code or access to research data, please contact the corresponding author through the associated publication.
+For questions concerning the methods, code or access to research data, please contact sompob@tropmedres.ac .

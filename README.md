@@ -104,11 +104,6 @@ The following example assumes the scripts have been copied into a **private work
 | Temporal sensor-response assessments | `Dengue_Enose_Sensor_Temporal_Audit_CORRECTED.wl` |
 | ROC and confusion-matrix visualization | `Dengue_Enose_Revised_Figures.wl` |
 
-## Data availability and privacy
-
-The source clinical records and participant-level sensor recordings are not included in this repository. The original processing notebook contains embedded recording-derived information and is also not distributed here. Access to study data is subject to applicable ethics approvals, institutional permissions and data-sharing arrangements.
-
-Because the necessary participant-level inputs are not publicly available here, this repository provides **analytical transparency and code documentation**, not independent end-to-end reproduction of the manuscript results. Publicly shareable aggregate outputs or a synthetic demonstration dataset may be added separately if approved.
 
 ## Citation
 
